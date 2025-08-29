@@ -1,0 +1,7 @@
+{
+  "participant_vcfs_workflow.participant_vcfs.participant_id": "<SAMPLE>",
+  "participant_vcfs_workflow.participant_vcfs.sge_queue": "<QUEUE_NAME>",
+  "participant_vcfs_workflow.participant_vcfs.num_threads": 1,
+  "participant_vcfs_workflow.participant_vcfs.vcf_file": "<MULTI-SAMPLE_VCF>, # /path/to/multi-samples.vcf.gz",
+  "participant_vcfs_workflow.participant_vcfs.memory": 6
+}
