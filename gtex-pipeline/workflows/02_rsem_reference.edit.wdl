@@ -1,0 +1,1 @@
+../gtex-pipeline/rnaseq/rsem_reference.edit.wdl

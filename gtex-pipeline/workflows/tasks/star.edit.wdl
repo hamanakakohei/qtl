@@ -1,0 +1,1 @@
+../../gtex-pipeline/rnaseq/star.edit.wdl
