@@ -1,0 +1,4 @@
+[submodule "gtex-pipeline/gtex-pipeline"]
+	path = gtex-pipeline/gtex-pipeline
+	url = https://github.com/hamanakakohei/gtex-pipeline.git
+	branch = gtex_v10_gm
